@@ -1,1 +1,19 @@
-
+{
+  "version_code": 114200,
+  "title_update": "Nova Atualização",
+  "title_made_by": "@redkz",
+  "title_color": "#FF0000",
+  "description": [
+    "Improved performance and speed",
+    "Enhanced security features",
+    "New user interface design"
+  ],
+  "notes": [
+    "Versão atualizada e otimizada",
+    "nova interface de login",
+    "Perguntas frequentes e suporte de atualização"
+  ],
+  "telegram_link": "https://t.me/redkz",
+  "update_link": "https://example.com/update",
+  "dialog_exit_on_false": true
+}
